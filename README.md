@@ -40,9 +40,11 @@
 
 <h3 align="center">📊 Status:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AjayPalhal-1&layout=compact&theme=radical" alt="Top Languages" height="120"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AjayPalhal-1&show_icons=true&theme=radical" alt="GitHub Stats" height="120"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjayPalhal-1&theme=radical" alt="GitHub Streak" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AjayPalhal-1&show_icons=true&theme=radical" alt="GitHub Stats" height="140"/> 
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjayPalhal-1&theme=radical" alt="GitHub Streak" height="140"/>  <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AjayPalhal-1&layout=compact&theme=radical" alt="Top Languages" height="150"/> 
+
+
 </p>
 
 ---

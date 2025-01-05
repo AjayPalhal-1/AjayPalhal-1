@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ajay Palhal</h1>
-<h3 align="center">💻 Passionate Java & Application Developer from India 🌟</h3>
+<h3 align="center">💻 Turning Ideas into Code ✨</h3>
 
-<p align="center">
-  🔭 Working on <b>Java & React Projects</b> • 🌱 Learning <b>Node.js, Next.js, Hibernate</b> <br>
-  💬 Ask me about <b>Java, OOP, JavaScript, Git</b> • 📫 Reach me at <b>ajaypalhal63@gmail.com</b>
-</p>
+<h3 align="center" style="text-align: center;">
+  धीरे-धीरे रे मना, धीरे सब कुछ होय।<br>
+  माली सींचे सौ घड़ा, ऋतु आए फल होय। 🌱
+</h3>
+
+
+
+
+
 
 <h3 align="center">⚙️ Languages & Tools</h3>
 

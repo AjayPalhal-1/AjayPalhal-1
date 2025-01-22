@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ajay Palhal</h1>
-<h3 align="center">💻 Turning Ideas into Code ✨</h3>
+<h1 align="center">Hi 👋, I'm Ajay Palhal </h1>
+<!-- <h3 align="center">💻 Turning Ideas into Code ✨</h3> -->
 
 <h3 align="center" style="text-align: center;">
   धीरे-धीरे रे मना, धीरे सब कुछ होय।<br>
@@ -38,12 +38,16 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="50" title="Hibernate" />
     </td>
   </tr>
+  
 </table>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AjayPalhal-1&label=Profile%20views&color=0e75b6&style=flat" alt="AjayPalhal-1" /> </p>
 
 
 
-<h3 align="center">📊 Status:</h3>
+
+
+<h3 align="center">📊 Status: </h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AjayPalhal-1&show_icons=true&theme=radical" alt="GitHub Status" height="160"/> 
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjayPalhal-1&theme=radical" alt="GitHub Streak" height="160"/>  <br>
@@ -51,6 +55,7 @@
 
 
 </p>
+
 
 ---
 
@@ -61,4 +66,5 @@
 </a>
   <a href="https://www.linkedin.com/in/ajay-palhal-98704224a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/AjayPalhal-1" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  
 </p>

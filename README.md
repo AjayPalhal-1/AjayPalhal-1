@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay Palhal </h1>
+<h1 align="center"> Java developer  </h1>
+
 <!-- <h3 align="center">💻 Turning Ideas into Code ✨</h3> -->
 
 <h3 align="center" style="text-align: center;">

@@ -1,4 +1,4 @@
-<h1 align="center">👋, I'm Ajay Palhal </h1>
+<h1 align="center"> Hi👋, I'm Ajay Palhal </h1>
 
 
 <!-- <h3 align="center">💻 Turning Ideas into Code ✨</h3> -->
